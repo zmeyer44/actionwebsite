@@ -12,7 +12,10 @@ const Privacy = () => {
       style={{
           display: 'flex',
           flexDirection:'column',
-          alignItems:'center'
+          alignItems:'center',
+          marginTop: '3rem',
+          paddingLeft: '2rem',
+          paddingRight: '2rem'
       }}
       >
           <h1>PRIVACY POLICY</h1>
