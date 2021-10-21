@@ -14,20 +14,20 @@ const faq = {
   text: "Answers for most popular questions",
   options: [
     {
-      title: "What is Discovr?",
-      text: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.",
+      title: "What is the Action app?",
+      text: "The action app allows users to discover and share TV Shows and movies that they enjoy.",
     },
     {
       title: "How do I create an account?",
-      text: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+      text: "Simply download our app to create your account and start discovering new films and tv shows.",
     },
     {
       title: "Are all posts public?",
-      text: "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      text: "Nope, you can decide to either save or share each movie or TV show that you review.",
     },
     {
       title: "What if I have more questions?",
-      text: "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always.",
+      text: "Feel free to reachout to use by filling out our contact form.",
     },
   ],
 }

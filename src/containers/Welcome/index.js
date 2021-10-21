@@ -9,12 +9,10 @@ import { StaticImage } from "gatsby-plugin-image"
 import Button from "../../components/Button"
 
 const titleWords = [
-  "Interviews",
-  "Podcasts",
-  "Articles",
-  "Recipes",
-  "Tutorials",
-  "Deep dives",
+  "Movies",
+  "TV Shows",
+  "Mini Series",
+  "Documentaries",
 ]
 
 const WelcomeContainer = props => {
@@ -66,14 +64,13 @@ const WelcomeContainer = props => {
           <Fade bottom cascade duration={600}>
             <span>
               <h1>
-                Community-driven, crowdsourced curation for <br />
+                Save and share your favorite <br />
                 <span className={`${isPaused}`}>{displayText}</span>
               </h1>
             </span>
             <span>
               <span>
-                Whereas most search and discovery are based on algorithms and
-                ads, we base it on who you follow on Discovr.
+                See what you friends are watching and how they rate your favorite shows. React to their reviews!
               </span>
             </span>
             <div className="cta_btns">

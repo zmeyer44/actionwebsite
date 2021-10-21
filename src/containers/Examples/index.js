@@ -6,11 +6,11 @@ import Button from "../../components/Button"
 import { Link } from "gatsby"
 
 const examples = {
-  title: "Discovr what makes us different",
+  title: "See what makes us different",
   text: "Want early access? Join the waitlist below.",
   bars: [
     {
-      title: "All Content Types",
+      title: "Find movies and TV shows",
       to: "",
       icon: (
         <StaticImage
@@ -23,7 +23,7 @@ const examples = {
       ),
     },
     {
-      title: "Network of Peers",
+      title: "See what friends are watching",
       to: "",
       icon: (
         <StaticImage
@@ -49,7 +49,7 @@ const examples = {
       ),
     },
     {
-      title: "Targeted Content",
+      title: "Custom content",
       to: "",
       icon: (
         <StaticImage

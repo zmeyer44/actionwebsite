@@ -9,11 +9,11 @@ const Footer = () => {
             color: `#1273f8`,
           }}
         >
-          Discovr
+          Action
         </h1>
         <p>
           © {new Date().getFullYear()}, Built by &nbsp;
-          <a href="#">Discovr</a>
+          <a href="#">Action</a>
         </p>
       </div>
     </FooterWrapper>

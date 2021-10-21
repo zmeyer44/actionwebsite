@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Discorv`,
-    description: `Discovris a social discovery platform that allows people to
+    title: `Action App`,
+    description: `Action is a social discovery platform that allows people to
 search for, discover, and keep track ofthings across the
 digital and physical worlds.`,
     author: `Zach Meyer`,
-    siteUrl: `https://discovr-98d5c.web.app`,
+    siteUrl: `https://actionapp.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

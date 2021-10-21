@@ -5,12 +5,12 @@ import { StepsWrapper } from "./styled.components"
 
 const steps = {
   title: "Here is how it works",
-  text: "Discovr adds a layer of social proof to the digital and physical worlds.",
+  text: "Action allows you to discover and track the shows you watch.",
   steps: [
     
 
     {
-      title: "Easy Tracking",
+      title: "Track what movies you watch",
       icon: (
         <StaticImage
           src="../../images/icons/focus.png"
@@ -34,7 +34,7 @@ const steps = {
       ),
     },
     {
-      title: "Search & Discovery",
+      title: "Search & Discover shows",
       icon: (
         <StaticImage
           src="../../images/icons/search.png"
